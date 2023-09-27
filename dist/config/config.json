@@ -1,0 +1,22 @@
+{
+	"ISENABLED":true,
+
+	"Each Bot Type can be set for their own armband colors.":"",
+	"Current Bot Types are: Scavs (includes snipers, raiders, and rogues), USEC PMC, Bear PMC, and Bosses (along with their followers, as well as cultists)":"",
+	"If you put in anything other than a supported color, NO armband will be used":"",
+
+	"Current supported colors are: blue, green, red, white, yellow, and purple":"",
+
+	"SCAVARMBAND":"green",
+	"RAIDERARMBAND":"white",
+	"ROGUEARMBAND":"white",
+	"USECARMBAND": "blue",
+	"BEARARMBAND": "red",
+	"BOSSARMBAND": "purple",
+	"BLOODHOUNDARMBAND": "yellow",
+
+
+	"Values for Logging: off, basic, verbose":"",
+	
+	"LOGGING":"basic"
+}
